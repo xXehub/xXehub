@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋, I'm xXehub / Sihub</h1>
 <h3 align="center">Owner of MMORPG Game called Sunda-Empire</h3>
 
-- 🔭 I’m currently working on [Sunda Empire](sunda-empire.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxehub&label=Profile%20views&color=0e75b6&style=flat" alt="xxehub" /> </p>
+
+- 🔭 I’m currently working on [Sunda Empire](https://discord.gg/z6ejGEU6XG)
+
+- 🌱 I’m currently learning **Java**
+
+- 💬 Ask me about **Java, Python**
+
+- 📫 How to reach me **artixsanni@gmail.com**
+
+- ⚡ Fun fact **Im a csgo hvher since 2017**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/siiihub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siiihub" height="30" width="40" /></a>
+<a href="https://discord.gg/xxehub#4099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xxehub#4099" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
